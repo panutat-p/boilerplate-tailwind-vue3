@@ -1,4 +1,4 @@
-# todo-card-pinia
+# template-tailwind-vue3
 
 ## Dependencies
 
