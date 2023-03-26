@@ -27,7 +27,7 @@ import Meatballs from "@/components/Meatballs.vue";
     </div>
   </nav>
   <div class="h-16"></div>
-  <main class="md:container md:mx-auto md:max-w-md">
+  <main class="lg:container lg:mx-auto md:max-w-md">
     <router-view />
   </main>
 </template>
