@@ -26,7 +26,7 @@ import TripleDot from "@/components/Meatballs.vue";
       <TripleDot />
     </div>
   </nav>
-  <main class="md:container md:mx-auto">
+  <main class="md:container md:mx-auto md:max-w-md">
     <router-view />
   </main>
 </template>
