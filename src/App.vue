@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import Hamburger from "@/components/Hamburger.vue";
-import TripleDot from "@/components/Meatballs.vue";
+import Meatballs from "@/components/Meatballs.vue";
 </script>
 
 <template>
@@ -23,7 +23,7 @@ import TripleDot from "@/components/Meatballs.vue";
       >
     </div>
     <div class="flex-none">
-      <TripleDot />
+      <Meatballs />
     </div>
   </nav>
   <div class="h-16"></div>
