@@ -1,4 +1,4 @@
-# template-tailwind-vue3
+# boilerplate-tailwind-vue3
 
 ## Dependencies
 
